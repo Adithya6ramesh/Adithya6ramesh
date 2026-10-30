@@ -84,7 +84,7 @@ Based in Kerala, India. Currently building AI-powered products: RAG pipelines, L
 ### activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adithya6ramesh&bg_color=0d1117&color=f4a6be&line=f4a6be&point=fde4ec&area=true&area_color=f4a6be&hide_border=true&radius=8" width="100%" alt="activity graph" />
+  <img src="https://ghchart.rshah.org/f4a6be/Adithya6ramesh" width="100%" alt="contribution calendar" />
 </p>
 
 <p align="center">
@@ -94,7 +94,7 @@ Based in Kerala, India. Currently building AI-powered products: RAG pipelines, L
 ### trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adithya6ramesh&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" alt="GitHub trophies" />
+  <img src="https://github-profile-trophies.vercel.app/?username=Adithya6ramesh&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" alt="GitHub trophies" />
 </p>
 
 <br/>
