@@ -1,15 +1,106 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fde4ec,100:f4b6c9&height=170&section=header&text=adithya%20ramesh&fontSize=44&fontColor=8a4f65&fontAlignY=40&desc=bits%20of%20chaos%2C%20tiny%20revolutions&descSize=16&descAlignY=62" width="100%" alt="header" />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Adithya6ramesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Adithya6ramesh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adithya6ramesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=20&duration=3500&pause=1200&color=F4A6BE&center=true&vCenter=true&width=520&lines=building+quiet%2C+considered+interfaces;python+%C2%B7+fastapi+%C2%B7+react;kerala%2C+india" alt="typing" />
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Adithya6ramesh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=Adithya6ramesh&icon=0&color=0)](https://visitcount.itsvg.in)
+### about
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I make small, thoughtful things for the web, somewhere between code and design.
+I like clean interfaces, calm colours and projects that feel a little bit alive.
+
+Based in Kerala, India. Currently building AI-powered products: RAG pipelines, LLM tooling, multimodal systems (vision, speech, OCR) and the interfaces around them.
+
+<br/>
+
+### tech stack
+
+<sub>intelligence</sub>
+
+<p>
+  <img src="https://img.shields.io/badge/LLM_Implementation-f4a6be?style=flat-square&labelColor=8a4f65" alt="LLM Implementation" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-f4a6be?style=flat-square&labelColor=8a4f65" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/RAG_Pipelines-f4a6be?style=flat-square&labelColor=8a4f65" alt="RAG Pipelines" />
+  <img src="https://img.shields.io/badge/Hybrid_Search-f4a6be?style=flat-square&labelColor=8a4f65" alt="Hybrid Search" />
+  <img src="https://img.shields.io/badge/Reranking-f4a6be?style=flat-square&labelColor=8a4f65" alt="Reranking" />
+  <img src="https://img.shields.io/badge/RAG_Evaluation_%28Recall%40k%2C_MRR%29-f4a6be?style=flat-square&labelColor=8a4f65" alt="RAG Evaluation (Recall@k, MRR)" />
+  <img src="https://img.shields.io/badge/Multimodal_AI-f4a6be?style=flat-square&labelColor=8a4f65" alt="Multimodal AI" />
+  <img src="https://img.shields.io/badge/Hugging_Face_Transformers-f4a6be?style=flat-square&labelColor=8a4f65" alt="Hugging Face Transformers" />
+  <img src="https://img.shields.io/badge/LangChain-f4a6be?style=flat-square&labelColor=8a4f65" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LoRA-f4a6be?style=flat-square&labelColor=8a4f65" alt="LoRA" />
+  <img src="https://img.shields.io/badge/MCP-f4a6be?style=flat-square&labelColor=8a4f65" alt="MCP" />
+  <img src="https://img.shields.io/badge/NLP-f4a6be?style=flat-square&labelColor=8a4f65" alt="NLP" />
+</p>
+
+<sub>perception</sub>
+
+<p>
+  <img src="https://img.shields.io/badge/OpenCV-f4a6be?style=flat-square&labelColor=8a4f65" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/MediaPipe-f4a6be?style=flat-square&labelColor=8a4f65" alt="MediaPipe" />
+  <img src="https://img.shields.io/badge/Whisper-f4a6be?style=flat-square&labelColor=8a4f65" alt="Whisper" />
+  <img src="https://img.shields.io/badge/Tesseract-f4a6be?style=flat-square&labelColor=8a4f65" alt="Tesseract" />
+  <img src="https://img.shields.io/badge/PaddleOCR-f4a6be?style=flat-square&labelColor=8a4f65" alt="PaddleOCR" />
+  <img src="https://img.shields.io/badge/Omni_TTS-f4a6be?style=flat-square&labelColor=8a4f65" alt="Omni TTS" />
+</p>
+
+<sub>craft</sub>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-f4a6be?style=flat-square&labelColor=8a4f65" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-f4a6be?style=flat-square&labelColor=8a4f65" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C-f4a6be?style=flat-square&labelColor=8a4f65" alt="C" />
+  <img src="https://img.shields.io/badge/Flask-f4a6be?style=flat-square&labelColor=8a4f65" alt="Flask" />
+  <img src="https://img.shields.io/badge/FastAPI-f4a6be?style=flat-square&labelColor=8a4f65" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/React.js-f4a6be?style=flat-square&labelColor=8a4f65" alt="React.js" />
+  <img src="https://img.shields.io/badge/REST_APIs-f4a6be?style=flat-square&labelColor=8a4f65" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Firebase-f4a6be?style=flat-square&labelColor=8a4f65" alt="Firebase" />
+  <img src="https://img.shields.io/badge/MySQL-f4a6be?style=flat-square&labelColor=8a4f65" alt="MySQL" />
+  <img src="https://img.shields.io/badge/HTML-f4a6be?style=flat-square&labelColor=8a4f65" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-f4a6be?style=flat-square&labelColor=8a4f65" alt="CSS" />
+</p>
+
+<sub>foundations</sub>
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-f4a6be?style=flat-square&labelColor=8a4f65" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/ChromaDB-f4a6be?style=flat-square&labelColor=8a4f65" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/Docker-f4a6be?style=flat-square&labelColor=8a4f65" alt="Docker" />
+  <img src="https://img.shields.io/badge/Hetzner_Cloud-f4a6be?style=flat-square&labelColor=8a4f65" alt="Hetzner Cloud" />
+  <img src="https://img.shields.io/badge/Git-f4a6be?style=flat-square&labelColor=8a4f65" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-f4a6be?style=flat-square&labelColor=8a4f65" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-f4a6be?style=flat-square&labelColor=8a4f65" alt="VS Code" />
+</p>
+
+<br/>
+
+### in numbers
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
+</p>
+
+### activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adithya6ramesh&bg_color=0d1117&color=f4a6be&line=f4a6be&point=fde4ec&area=true&area_color=f4a6be&hide_border=true&radius=8" width="100%" alt="activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Adithya6ramesh&hide_border=true&background=00000000&ring=f4a6be&fire=f4a6be&currStreakNum=f4a6be&sideNums=f4a6be&currStreakLabel=d98aa5&sideLabels=d98aa5&dates=d98aa5" alt="streak" />
+</p>
+
+### trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Adithya6ramesh&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" alt="GitHub trophies" />
+</p>
+
+<br/>
+
+### find me
+
+[heyadithya.me](https://murmur.heyadithya.me/) &nbsp;·&nbsp; [github.com/Adithya6ramesh](https://github.com/Adithya6ramesh)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f4b6c9,100:fde4ec&height=90&section=footer" width="100%" alt="footer" />
