@@ -88,7 +88,7 @@ Based in Kerala, India. Currently building AI-powered products: RAG pipelines, L
 ### Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=Adithya6ramesh&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" alt="GitHub trophies" />
+  <img src="./assets/trophies.svg" alt="Highlights" />
 </p>
 
 <br/>

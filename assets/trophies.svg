@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="160" viewBox="0 0 840 160">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2a1a21"/><stop offset="1" stop-color="#150f13"/></linearGradient>
+<linearGradient id="n" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fde4ec"/><stop offset="1" stop-color="#f4a6be"/></linearGradient></defs>
+<g transform="translate(0,5)">
+<rect width="195" height="150" rx="16" fill="url(#g)" stroke="#f4a6be" stroke-opacity="0.35"/>
+<rect x="12" y="12" width="171" height="126" rx="10" fill="none" stroke="#f4a6be" stroke-opacity="0.12"/>
+<circle cx="97.5" cy="34" r="3" fill="#f4a6be" fill-opacity="0.8"/>
+<text x="97.5" y="58" text-anchor="middle" font-family="Georgia, serif" font-size="10" letter-spacing="3" fill="#d98aa5">CONTRIBUTIONS</text>
+<text x="97.5" y="100" text-anchor="middle" font-family="Georgia, serif" font-size="40" fill="url(#n)">308</text>
+<text x="97.5" y="126" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="12" fill="#b9889a">since September 2023</text>
+</g>
+<g transform="translate(215,5)">
+<rect width="195" height="150" rx="16" fill="url(#g)" stroke="#f4a6be" stroke-opacity="0.35"/>
+<rect x="12" y="12" width="171" height="126" rx="10" fill="none" stroke="#f4a6be" stroke-opacity="0.12"/>
+<circle cx="97.5" cy="34" r="3" fill="#f4a6be" fill-opacity="0.8"/>
+<text x="97.5" y="58" text-anchor="middle" font-family="Georgia, serif" font-size="10" letter-spacing="3" fill="#d98aa5">REPOSITORIES</text>
+<text x="97.5" y="100" text-anchor="middle" font-family="Georgia, serif" font-size="40" fill="url(#n)">18</text>
+<text x="97.5" y="126" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="12" fill="#b9889a">public and growing</text>
+</g>
+<g transform="translate(430,5)">
+<rect width="195" height="150" rx="16" fill="url(#g)" stroke="#f4a6be" stroke-opacity="0.35"/>
+<rect x="12" y="12" width="171" height="126" rx="10" fill="none" stroke="#f4a6be" stroke-opacity="0.12"/>
+<circle cx="97.5" cy="34" r="3" fill="#f4a6be" fill-opacity="0.8"/>
+<text x="97.5" y="58" text-anchor="middle" font-family="Georgia, serif" font-size="10" letter-spacing="3" fill="#d98aa5">LONGEST STREAK</text>
+<text x="97.5" y="100" text-anchor="middle" font-family="Georgia, serif" font-size="40" fill="url(#n)">5</text>
+<text x="97.5" y="126" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="12" fill="#b9889a">days in a row</text>
+</g>
+<g transform="translate(645,5)">
+<rect width="195" height="150" rx="16" fill="url(#g)" stroke="#f4a6be" stroke-opacity="0.35"/>
+<rect x="12" y="12" width="171" height="126" rx="10" fill="none" stroke="#f4a6be" stroke-opacity="0.12"/>
+<circle cx="97.5" cy="34" r="3" fill="#f4a6be" fill-opacity="0.8"/>
+<text x="97.5" y="58" text-anchor="middle" font-family="Georgia, serif" font-size="10" letter-spacing="3" fill="#d98aa5">BUILDING SINCE</text>
+<text x="97.5" y="100" text-anchor="middle" font-family="Georgia, serif" font-size="40" fill="url(#n)">2023</text>
+<text x="97.5" y="126" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="12" fill="#b9889a">one commit at a time</text>
+</g>
+</svg>
