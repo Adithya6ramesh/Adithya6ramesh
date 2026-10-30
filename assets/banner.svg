@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffeef4"/><stop offset=".55" stop-color="#f9cfdd"/><stop offset="1" stop-color="#eeaec5"/></linearGradient>
+<linearGradient id="far" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#d98aa8"/><stop offset="1" stop-color="#b8688a"/></linearGradient>
+<linearGradient id="mid" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#b3597f"/><stop offset="1" stop-color="#8a3f61"/></linearGradient>
+<linearGradient id="near" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8a4264"/><stop offset="1" stop-color="#5e2a45"/></linearGradient>
+<linearGradient id="river" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff4f8"/><stop offset="1" stop-color="#f6bfd3"/></linearGradient>
+<radialGradient id="sun" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#fff8fb" stop-opacity=".9"/><stop offset="1" stop-color="#fff8fb" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="420" fill="url(#sky)"/>
+<circle cx="860" cy="250" r="190" fill="url(#sun)"/>
+<path d="M0 300 C120 262 230 250 340 280 C470 316 560 268 700 270 C860 272 980 305 1200 280 L1200 420 L0 420Z" fill="url(#far)"/>
+<path d="M0 330 C90 300 200 285 330 318 C440 346 520 312 640 312 C760 312 860 330 960 312 C1060 294 1130 300 1200 316 L1200 420 L0 420Z" fill="url(#mid)"/>
+<path d="M610 312 C690 314 770 322 800 336 C740 346 650 350 600 372 C570 386 556 404 548 420 L690 420 C690 396 704 384 740 374 C800 358 860 352 850 336 C830 322 740 312 640 312Z" fill="url(#river)"/>
+<path d="M0 352 C110 326 250 322 380 356 C470 380 530 384 560 420 L0 420Z" fill="url(#near)"/>
+<path d="M1200 340 C1120 330 1010 346 920 368 C830 388 760 392 700 420 L1200 420Z" fill="url(#near)"/>
+<text x="600" y="150" text-anchor="middle" font-family="'IBM Plex Mono','Courier New',monospace" font-size="36" fill="#9a4f70" letter-spacing="1">Welcome to Adithya's GitHub</text>
+<text x="600" y="200" text-anchor="middle" font-family="'IBM Plex Mono','Courier New',monospace" font-size="34" fill="#9a4f70">&lt;/&gt;</text>
+</svg>

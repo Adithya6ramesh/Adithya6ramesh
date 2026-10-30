@@ -1,4 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fde4ec,100:f4b6c9&height=170&section=header&text=Adithya%20Ramesh&fontSize=44&fontColor=8a4f65&fontAlignY=40&desc=bits%20of%20chaos%2C%20tiny%20revolutions&descSize=16&descAlignY=62" width="100%" alt="header" />
+<p align="center">
+  <img src="./assets/banner.svg" width="100%" alt="Welcome to Adithya's GitHub" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/adithya6ramesh"><img src="https://img.shields.io/badge/LINKEDIN-8a4f65?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:adithyaramesh66@gmail.com"><img src="https://img.shields.io/badge/GMAIL-b5688a?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://app.notion.com/p/Adithya-Ramesh-26a02206e65180228cb4de9853b521c8"><img src="https://img.shields.io/badge/NOTION-d98aa5?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" /></a>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=20&duration=3500&pause=1200&color=F4A6BE&center=true&vCenter=true&width=520&lines=building+AI+systems+that+actually+work;python+%C2%B7+fastapi+%C2%B7+react;kerala%2C+india" alt="typing" />
