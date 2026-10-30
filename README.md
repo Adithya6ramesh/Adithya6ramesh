@@ -1,19 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fde4ec,100:f4b6c9&height=170&section=header&text=Adithya%20Ramesh&fontSize=44&fontColor=8a4f65&fontAlignY=40&desc=bits%20of%20chaos%2C%20tiny%20revolutions&descSize=16&descAlignY=62" width="100%" alt="header" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=20&duration=3500&pause=1200&color=F4A6BE&center=true&vCenter=true&width=520&lines=building+quiet%2C+considered+interfaces;python+%C2%B7+fastapi+%C2%B7+react;kerala%2C+india" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=20&duration=3500&pause=1200&color=F4A6BE&center=true&vCenter=true&width=520&lines=building+AI+systems+that+actually+work;python+%C2%B7+fastapi+%C2%B7+react;kerala%2C+india" alt="typing" />
 </p>
 
 <br/>
 
 ### About
 
-I make small, thoughtful things for the web, somewhere between code and design.
-I like clean interfaces, calm colours and projects that feel a little bit alive.
-
-Based in Kerala, India. Currently building AI-powered products: RAG pipelines, LLM tooling, multimodal systems (vision, speech, OCR) and the interfaces around them.
-
-<br/>
+Hi, I’m Adithya. I build AI products, and most of my time goes into making them accurate, fast and dependable. I enjoy the unglamorous parts, like evaluation, debugging and tuning, because that’s where a system goes from impressive to useful.
 
 ### Tech stack
 
