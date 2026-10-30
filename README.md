@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fde4ec,100:f4b6c9&height=170&section=header&text=adithya%20ramesh&fontSize=44&fontColor=8a4f65&fontAlignY=40&desc=bits%20of%20chaos%2C%20tiny%20revolutions&descSize=16&descAlignY=62" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fde4ec,100:f4b6c9&height=170&section=header&text=Adithya%20Ramesh&fontSize=44&fontColor=8a4f65&fontAlignY=40&desc=bits%20of%20chaos%2C%20tiny%20revolutions&descSize=16&descAlignY=62" width="100%" alt="header" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=20&duration=3500&pause=1200&color=F4A6BE&center=true&vCenter=true&width=520&lines=building+quiet%2C+considered+interfaces;python+%C2%B7+fastapi+%C2%B7+react;kerala%2C+india" alt="typing" />
@@ -6,7 +6,7 @@
 
 <br/>
 
-### about
+### About
 
 I make small, thoughtful things for the web, somewhere between code and design.
 I like clean interfaces, calm colours and projects that feel a little bit alive.
@@ -15,9 +15,9 @@ Based in Kerala, India. Currently building AI-powered products: RAG pipelines, L
 
 <br/>
 
-### tech stack
+### Tech stack
 
-<sub>intelligence</sub>
+<sub>Intelligence</sub>
 
 <p>
   <img src="https://img.shields.io/badge/LLM_Implementation-f4a6be?style=flat-square&labelColor=8a4f65" alt="LLM Implementation" />
@@ -34,7 +34,7 @@ Based in Kerala, India. Currently building AI-powered products: RAG pipelines, L
   <img src="https://img.shields.io/badge/NLP-f4a6be?style=flat-square&labelColor=8a4f65" alt="NLP" />
 </p>
 
-<sub>perception</sub>
+<sub>Perception</sub>
 
 <p>
   <img src="https://img.shields.io/badge/OpenCV-f4a6be?style=flat-square&labelColor=8a4f65" alt="OpenCV" />
@@ -45,7 +45,7 @@ Based in Kerala, India. Currently building AI-powered products: RAG pipelines, L
   <img src="https://img.shields.io/badge/Omni_TTS-f4a6be?style=flat-square&labelColor=8a4f65" alt="Omni TTS" />
 </p>
 
-<sub>craft</sub>
+<sub>Craft</sub>
 
 <p>
   <img src="https://img.shields.io/badge/Python-f4a6be?style=flat-square&labelColor=8a4f65" alt="Python" />
@@ -61,7 +61,7 @@ Based in Kerala, India. Currently building AI-powered products: RAG pipelines, L
   <img src="https://img.shields.io/badge/CSS-f4a6be?style=flat-square&labelColor=8a4f65" alt="CSS" />
 </p>
 
-<sub>foundations</sub>
+<sub>Foundations</sub>
 
 <p>
   <img src="https://img.shields.io/badge/PyTorch-f4a6be?style=flat-square&labelColor=8a4f65" alt="PyTorch" />
@@ -75,23 +75,17 @@ Based in Kerala, India. Currently building AI-powered products: RAG pipelines, L
 
 <br/>
 
-### in numbers
+### Activity
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
-</p>
-
-### activity
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/f4a6be/Adithya6ramesh" width="100%" alt="contribution calendar" />
+  <img src="./profile-3d-contrib/profile-pink.svg" width="100%" alt="3D contribution graph" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Adithya6ramesh&hide_border=true&background=00000000&ring=f4a6be&fire=f4a6be&currStreakNum=f4a6be&sideNums=f4a6be&currStreakLabel=d98aa5&sideLabels=d98aa5&dates=d98aa5" alt="streak" />
 </p>
 
-### trophies
+### Trophies
 
 <p align="center">
   <img src="https://github-profile-trophies.vercel.app/?username=Adithya6ramesh&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" alt="GitHub trophies" />
@@ -99,7 +93,7 @@ Based in Kerala, India. Currently building AI-powered products: RAG pipelines, L
 
 <br/>
 
-### find me
+### Find me
 
 [heyadithya.me](https://murmur.heyadithya.me/) &nbsp;·&nbsp; [github.com/Adithya6ramesh](https://github.com/Adithya6ramesh)
 
