@@ -1,36 +1,100 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="160" viewBox="0 0 840 160">
-<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2a1a21"/><stop offset="1" stop-color="#150f13"/></linearGradient>
-<linearGradient id="n" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fde4ec"/><stop offset="1" stop-color="#f4a6be"/></linearGradient></defs>
-<g transform="translate(0,5)">
-<rect width="195" height="150" rx="16" fill="url(#g)" stroke="#f4a6be" stroke-opacity="0.35"/>
-<rect x="12" y="12" width="171" height="126" rx="10" fill="none" stroke="#f4a6be" stroke-opacity="0.12"/>
-<circle cx="97.5" cy="34" r="3" fill="#f4a6be" fill-opacity="0.8"/>
-<text x="97.5" y="58" text-anchor="middle" font-family="Georgia, serif" font-size="10" letter-spacing="3" fill="#d98aa5">CONTRIBUTIONS</text>
-<text x="97.5" y="100" text-anchor="middle" font-family="Georgia, serif" font-size="40" fill="url(#n)">308</text>
-<text x="97.5" y="126" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="12" fill="#b9889a">since September 2023</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="235" viewBox="0 0 860 235">
+<defs>
+<linearGradient id="c0" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffe3ec"/><stop offset=".55" stop-color="#f7a8c2"/><stop offset="1" stop-color="#d9779c"/></linearGradient>
+<linearGradient id="d0" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f7a8c2"/><stop offset="1" stop-color="#d9779c"/></linearGradient>
+<linearGradient id="r0" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#d9779c"/><stop offset="1" stop-color="#f7a8c2"/></linearGradient>
+<linearGradient id="c1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffe9df"/><stop offset=".55" stop-color="#f9b8a8"/><stop offset="1" stop-color="#d98474"/></linearGradient>
+<linearGradient id="d1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f9b8a8"/><stop offset="1" stop-color="#d98474"/></linearGradient>
+<linearGradient id="r1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#d98474"/><stop offset="1" stop-color="#f9b8a8"/></linearGradient>
+<linearGradient id="c2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f1e4ff"/><stop offset=".55" stop-color="#cdaef2"/><stop offset="1" stop-color="#9c7ace"/></linearGradient>
+<linearGradient id="d2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#cdaef2"/><stop offset="1" stop-color="#9c7ace"/></linearGradient>
+<linearGradient id="r2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#9c7ace"/><stop offset="1" stop-color="#cdaef2"/></linearGradient>
+<linearGradient id="c3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff4d9"/><stop offset=".55" stop-color="#f6d68e"/><stop offset="1" stop-color="#d9ab52"/></linearGradient>
+<linearGradient id="d3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f6d68e"/><stop offset="1" stop-color="#d9ab52"/></linearGradient>
+<linearGradient id="r3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#d9ab52"/><stop offset="1" stop-color="#f6d68e"/></linearGradient>
+</defs>
+<g transform="translate(107.5,32) scale(1.2)">
+<ellipse cx="0" cy="106" rx="40" ry="6" fill="#000" fill-opacity=".18"/>
+<rect x="-30" y="92" width="60" height="14" rx="6" fill="url(#d0)"/>
+<rect x="-30" y="92" width="60" height="5" rx="2.5" fill="#fff" fill-opacity=".35"/>
+<rect x="-21" y="82" width="42" height="12" rx="5" fill="url(#c0)"/>
+<path d="M-7 68 H7 L10 84 H-10Z" fill="url(#d0)"/>
+<path d="M-7 68 L-4 84" stroke="#fff" stroke-opacity=".4" stroke-width="2" stroke-linecap="round"/>
+<path d="M-30 18 C-52 16 -50 48 -25 50" fill="none" stroke="url(#d0)" stroke-width="7" stroke-linecap="round"/>
+<path d="M30 18 C52 16 50 48 25 50" fill="none" stroke="url(#d0)" stroke-width="7" stroke-linecap="round"/>
+<path d="M-32 12 H32 C32 52 19 72 0 72 C-19 72 -32 52 -32 12Z" fill="url(#c0)"/>
+<ellipse cx="0" cy="12" rx="32" ry="8" fill="url(#r0)"/>
+<ellipse cx="0" cy="12" rx="26" ry="5" fill="#d9779c" fill-opacity=".55"/>
+<path d="M-23 24 C-23 42 -17 56 -9 63" fill="none" stroke="#fff" stroke-opacity=".6" stroke-width="5" stroke-linecap="round"/>
+<circle cx="-10" cy="38" r="3.2" fill="#6b3248"/><circle cx="10" cy="38" r="3.2" fill="#6b3248"/>
+<circle cx="-9" cy="37" r="1" fill="#fff"/><circle cx="11" cy="37" r="1" fill="#fff"/>
+<ellipse cx="-18" cy="46" rx="5" ry="3" fill="#ff7fa6" fill-opacity=".55"/><ellipse cx="18" cy="46" rx="5" ry="3" fill="#ff7fa6" fill-opacity=".55"/>
+<path d="M-4.5 45 Q0 51 4.5 45" fill="none" stroke="#6b3248" stroke-width="2" stroke-linecap="round"/>
+<path transform="translate(-44,0) scale(1.1)" d="M0 -6 Q1 -1 6 0 Q1 1 0 6 Q-1 1 -6 0 Q-1 -1 0 -6Z" fill="#fff" fill-opacity="0.9"/><path transform="translate(46,-4) scale(0.8)" d="M0 -6 Q1 -1 6 0 Q1 1 0 6 Q-1 1 -6 0 Q-1 -1 0 -6Z" fill="#fff" fill-opacity="0.8"/><path transform="translate(0,-14) scale(1.2)" d="M0 -6 Q1 -1 6 0 Q1 1 0 6 Q-1 1 -6 0 Q-1 -1 0 -6Z" fill="#fff" fill-opacity="0.95"/>
 </g>
-<g transform="translate(215,5)">
-<rect width="195" height="150" rx="16" fill="url(#g)" stroke="#f4a6be" stroke-opacity="0.35"/>
-<rect x="12" y="12" width="171" height="126" rx="10" fill="none" stroke="#f4a6be" stroke-opacity="0.12"/>
-<circle cx="97.5" cy="34" r="3" fill="#f4a6be" fill-opacity="0.8"/>
-<text x="97.5" y="58" text-anchor="middle" font-family="Georgia, serif" font-size="10" letter-spacing="3" fill="#d98aa5">REPOSITORIES</text>
-<text x="97.5" y="100" text-anchor="middle" font-family="Georgia, serif" font-size="40" fill="url(#n)">18</text>
-<text x="97.5" y="126" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="12" fill="#b9889a">public and growing</text>
+<text x="107.5" y="190" text-anchor="middle" font-family="Trebuchet MS, Verdana, sans-serif" font-size="15" font-weight="700" fill="#e07aa0">Contributor</text>
+<text x="107.5" y="212" text-anchor="middle" font-family="Trebuchet MS, Verdana, sans-serif" font-size="12" fill="#c98aa0">308 contributions</text>
+<g transform="translate(322.5,32) scale(1.2)">
+<ellipse cx="0" cy="106" rx="40" ry="6" fill="#000" fill-opacity=".18"/>
+<rect x="-30" y="92" width="60" height="14" rx="6" fill="url(#d1)"/>
+<rect x="-30" y="92" width="60" height="5" rx="2.5" fill="#fff" fill-opacity=".35"/>
+<rect x="-21" y="82" width="42" height="12" rx="5" fill="url(#c1)"/>
+<path d="M-7 68 H7 L10 84 H-10Z" fill="url(#d1)"/>
+<path d="M-7 68 L-4 84" stroke="#fff" stroke-opacity=".4" stroke-width="2" stroke-linecap="round"/>
+<path d="M-30 18 C-52 16 -50 48 -25 50" fill="none" stroke="url(#d1)" stroke-width="7" stroke-linecap="round"/>
+<path d="M30 18 C52 16 50 48 25 50" fill="none" stroke="url(#d1)" stroke-width="7" stroke-linecap="round"/>
+<path d="M-32 12 H32 C32 52 19 72 0 72 C-19 72 -32 52 -32 12Z" fill="url(#c1)"/>
+<ellipse cx="0" cy="12" rx="32" ry="8" fill="url(#r1)"/>
+<ellipse cx="0" cy="12" rx="26" ry="5" fill="#d98474" fill-opacity=".55"/>
+<path d="M-23 24 C-23 42 -17 56 -9 63" fill="none" stroke="#fff" stroke-opacity=".6" stroke-width="5" stroke-linecap="round"/>
+<circle cx="-10" cy="38" r="3.2" fill="#6b3248"/><circle cx="10" cy="38" r="3.2" fill="#6b3248"/>
+<circle cx="-9" cy="37" r="1" fill="#fff"/><circle cx="11" cy="37" r="1" fill="#fff"/>
+<ellipse cx="-18" cy="46" rx="5" ry="3" fill="#ff7fa6" fill-opacity=".55"/><ellipse cx="18" cy="46" rx="5" ry="3" fill="#ff7fa6" fill-opacity=".55"/>
+<path d="M-4.5 45 Q0 51 4.5 45" fill="none" stroke="#6b3248" stroke-width="2" stroke-linecap="round"/>
+<path transform="translate(-44,0) scale(1.1)" d="M0 -6 Q1 -1 6 0 Q1 1 0 6 Q-1 1 -6 0 Q-1 -1 0 -6Z" fill="#fff" fill-opacity="0.9"/><path transform="translate(46,-4) scale(0.8)" d="M0 -6 Q1 -1 6 0 Q1 1 0 6 Q-1 1 -6 0 Q-1 -1 0 -6Z" fill="#fff" fill-opacity="0.8"/><path transform="translate(0,-14) scale(1.2)" d="M0 -6 Q1 -1 6 0 Q1 1 0 6 Q-1 1 -6 0 Q-1 -1 0 -6Z" fill="#fff" fill-opacity="0.95"/>
 </g>
-<g transform="translate(430,5)">
-<rect width="195" height="150" rx="16" fill="url(#g)" stroke="#f4a6be" stroke-opacity="0.35"/>
-<rect x="12" y="12" width="171" height="126" rx="10" fill="none" stroke="#f4a6be" stroke-opacity="0.12"/>
-<circle cx="97.5" cy="34" r="3" fill="#f4a6be" fill-opacity="0.8"/>
-<text x="97.5" y="58" text-anchor="middle" font-family="Georgia, serif" font-size="10" letter-spacing="3" fill="#d98aa5">LONGEST STREAK</text>
-<text x="97.5" y="100" text-anchor="middle" font-family="Georgia, serif" font-size="40" fill="url(#n)">5</text>
-<text x="97.5" y="126" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="12" fill="#b9889a">days in a row</text>
+<text x="322.5" y="190" text-anchor="middle" font-family="Trebuchet MS, Verdana, sans-serif" font-size="15" font-weight="700" fill="#e07aa0">Repo Maker</text>
+<text x="322.5" y="212" text-anchor="middle" font-family="Trebuchet MS, Verdana, sans-serif" font-size="12" fill="#c98aa0">18 repositories</text>
+<g transform="translate(537.5,32) scale(1.2)">
+<ellipse cx="0" cy="106" rx="40" ry="6" fill="#000" fill-opacity=".18"/>
+<rect x="-30" y="92" width="60" height="14" rx="6" fill="url(#d2)"/>
+<rect x="-30" y="92" width="60" height="5" rx="2.5" fill="#fff" fill-opacity=".35"/>
+<rect x="-21" y="82" width="42" height="12" rx="5" fill="url(#c2)"/>
+<path d="M-7 68 H7 L10 84 H-10Z" fill="url(#d2)"/>
+<path d="M-7 68 L-4 84" stroke="#fff" stroke-opacity=".4" stroke-width="2" stroke-linecap="round"/>
+<path d="M-30 18 C-52 16 -50 48 -25 50" fill="none" stroke="url(#d2)" stroke-width="7" stroke-linecap="round"/>
+<path d="M30 18 C52 16 50 48 25 50" fill="none" stroke="url(#d2)" stroke-width="7" stroke-linecap="round"/>
+<path d="M-32 12 H32 C32 52 19 72 0 72 C-19 72 -32 52 -32 12Z" fill="url(#c2)"/>
+<ellipse cx="0" cy="12" rx="32" ry="8" fill="url(#r2)"/>
+<ellipse cx="0" cy="12" rx="26" ry="5" fill="#9c7ace" fill-opacity=".55"/>
+<path d="M-23 24 C-23 42 -17 56 -9 63" fill="none" stroke="#fff" stroke-opacity=".6" stroke-width="5" stroke-linecap="round"/>
+<circle cx="-10" cy="38" r="3.2" fill="#6b3248"/><circle cx="10" cy="38" r="3.2" fill="#6b3248"/>
+<circle cx="-9" cy="37" r="1" fill="#fff"/><circle cx="11" cy="37" r="1" fill="#fff"/>
+<ellipse cx="-18" cy="46" rx="5" ry="3" fill="#ff7fa6" fill-opacity=".55"/><ellipse cx="18" cy="46" rx="5" ry="3" fill="#ff7fa6" fill-opacity=".55"/>
+<path d="M-4.5 45 Q0 51 4.5 45" fill="none" stroke="#6b3248" stroke-width="2" stroke-linecap="round"/>
+<path transform="translate(-44,0) scale(1.1)" d="M0 -6 Q1 -1 6 0 Q1 1 0 6 Q-1 1 -6 0 Q-1 -1 0 -6Z" fill="#fff" fill-opacity="0.9"/><path transform="translate(46,-4) scale(0.8)" d="M0 -6 Q1 -1 6 0 Q1 1 0 6 Q-1 1 -6 0 Q-1 -1 0 -6Z" fill="#fff" fill-opacity="0.8"/><path transform="translate(0,-14) scale(1.2)" d="M0 -6 Q1 -1 6 0 Q1 1 0 6 Q-1 1 -6 0 Q-1 -1 0 -6Z" fill="#fff" fill-opacity="0.95"/>
 </g>
-<g transform="translate(645,5)">
-<rect width="195" height="150" rx="16" fill="url(#g)" stroke="#f4a6be" stroke-opacity="0.35"/>
-<rect x="12" y="12" width="171" height="126" rx="10" fill="none" stroke="#f4a6be" stroke-opacity="0.12"/>
-<circle cx="97.5" cy="34" r="3" fill="#f4a6be" fill-opacity="0.8"/>
-<text x="97.5" y="58" text-anchor="middle" font-family="Georgia, serif" font-size="10" letter-spacing="3" fill="#d98aa5">BUILDING SINCE</text>
-<text x="97.5" y="100" text-anchor="middle" font-family="Georgia, serif" font-size="40" fill="url(#n)">2023</text>
-<text x="97.5" y="126" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="12" fill="#b9889a">one commit at a time</text>
+<text x="537.5" y="190" text-anchor="middle" font-family="Trebuchet MS, Verdana, sans-serif" font-size="15" font-weight="700" fill="#e07aa0">Streak Keeper</text>
+<text x="537.5" y="212" text-anchor="middle" font-family="Trebuchet MS, Verdana, sans-serif" font-size="12" fill="#c98aa0">5 day streak</text>
+<g transform="translate(752.5,32) scale(1.2)">
+<ellipse cx="0" cy="106" rx="40" ry="6" fill="#000" fill-opacity=".18"/>
+<rect x="-30" y="92" width="60" height="14" rx="6" fill="url(#d3)"/>
+<rect x="-30" y="92" width="60" height="5" rx="2.5" fill="#fff" fill-opacity=".35"/>
+<rect x="-21" y="82" width="42" height="12" rx="5" fill="url(#c3)"/>
+<path d="M-7 68 H7 L10 84 H-10Z" fill="url(#d3)"/>
+<path d="M-7 68 L-4 84" stroke="#fff" stroke-opacity=".4" stroke-width="2" stroke-linecap="round"/>
+<path d="M-30 18 C-52 16 -50 48 -25 50" fill="none" stroke="url(#d3)" stroke-width="7" stroke-linecap="round"/>
+<path d="M30 18 C52 16 50 48 25 50" fill="none" stroke="url(#d3)" stroke-width="7" stroke-linecap="round"/>
+<path d="M-32 12 H32 C32 52 19 72 0 72 C-19 72 -32 52 -32 12Z" fill="url(#c3)"/>
+<ellipse cx="0" cy="12" rx="32" ry="8" fill="url(#r3)"/>
+<ellipse cx="0" cy="12" rx="26" ry="5" fill="#d9ab52" fill-opacity=".55"/>
+<path d="M-23 24 C-23 42 -17 56 -9 63" fill="none" stroke="#fff" stroke-opacity=".6" stroke-width="5" stroke-linecap="round"/>
+<circle cx="-10" cy="38" r="3.2" fill="#6b3248"/><circle cx="10" cy="38" r="3.2" fill="#6b3248"/>
+<circle cx="-9" cy="37" r="1" fill="#fff"/><circle cx="11" cy="37" r="1" fill="#fff"/>
+<ellipse cx="-18" cy="46" rx="5" ry="3" fill="#ff7fa6" fill-opacity=".55"/><ellipse cx="18" cy="46" rx="5" ry="3" fill="#ff7fa6" fill-opacity=".55"/>
+<path d="M-4.5 45 Q0 51 4.5 45" fill="none" stroke="#6b3248" stroke-width="2" stroke-linecap="round"/>
+<path transform="translate(-44,0) scale(1.1)" d="M0 -6 Q1 -1 6 0 Q1 1 0 6 Q-1 1 -6 0 Q-1 -1 0 -6Z" fill="#fff" fill-opacity="0.9"/><path transform="translate(46,-4) scale(0.8)" d="M0 -6 Q1 -1 6 0 Q1 1 0 6 Q-1 1 -6 0 Q-1 -1 0 -6Z" fill="#fff" fill-opacity="0.8"/><path transform="translate(0,-14) scale(1.2)" d="M0 -6 Q1 -1 6 0 Q1 1 0 6 Q-1 1 -6 0 Q-1 -1 0 -6Z" fill="#fff" fill-opacity="0.95"/>
 </g>
+<text x="752.5" y="190" text-anchor="middle" font-family="Trebuchet MS, Verdana, sans-serif" font-size="15" font-weight="700" fill="#e07aa0">Since 2023</text>
+<text x="752.5" y="212" text-anchor="middle" font-family="Trebuchet MS, Verdana, sans-serif" font-size="12" fill="#c98aa0">still building</text>
 </svg>
